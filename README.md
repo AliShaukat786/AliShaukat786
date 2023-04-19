@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ali Shaukat
-- 👀 I’m interested in Pharmaceutical side and Data science .
+- 👀 I’m interested in Pharmaceutical side and In Data related roles
 - 🌱 I’m currently learning Data Science..
-- 💞️ I’m looking to collaborate on Apprenticeship work clanical trial and data science.
+- 💞️ I’m looking to collaborate with like-minded individuals to improve my analytical skills and to gain the experience and necessary skills to achieve a strong position       to move into Data and Pharmaceutical side.
 - 📫 How to reach me alishaukatgb@gmail.com.
 - https://www.linkedin.com/in/ali-shaukat-327277252/
 
